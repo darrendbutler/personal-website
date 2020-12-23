@@ -1,5 +1,5 @@
 layout: sidebar
-style: light
+style: dark
 
 plugins:
   - jekyll-octicons
@@ -28,23 +28,23 @@ projects:
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: your_username
+  facebook: darrenthedev
   # hackerrank: your_username
-  # instagram: your_username
+  instagram: darrendbutler
   # keybase: your_username
-  # linkedin: your_username
+  linkedin: darrendbutler
   # mastodon: your_username
-  # medium: your_username
+  medium: darrendbutler
   # stackoverflow: your_user_id
   # telegram: your_username
-  # twitter: your_username
+  twitter: darrendbutler
   # unsplash: your_username
   # vk: your_username
   # website: http://your_website_url
-  # youtube: your_username
+  youtube: channel/UC7bMhgTkRJMqzbvswdSpW0w
 
 topics:
   - name: CSS
